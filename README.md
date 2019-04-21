@@ -1,6 +1,6 @@
-## Data Analyst/ Business Analyst/ Product Manager/ Product Analyst Interview Prep
+ ## Data Analyst/ Business Analyst/ Product Analyst Interview Prep
 
-### Can Alternatively be used as study resource to get better at SQL, Python & SQL
+### Can Alternatively be used as study resource to get better at SQL, Python & Tableau
 
 
 Nested folders in this repository is a non exhaustive list of relevant Links and resources that cover multiple levels of complexity and skill level
