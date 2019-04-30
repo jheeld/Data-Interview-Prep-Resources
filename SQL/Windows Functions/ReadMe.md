@@ -19,3 +19,5 @@
 * [N rolling day average](https://stackoverflow.com/questions/25922379/sql-query-for-7-day-rolling-average-in-sql-server/)
 * [Added Calculations over N rolling day average](https://www.essentialsql.com/sql-puzzle-calculate-moving-averages/)
 * [Periscope Blog Day over Day Changes](https://www.periscopedata.com/blog/computing-day-over-day-changes-with-window-functions/)
+* [Difference between RowNum() , Rank() & DenseRank()](https://codingsight.com/methods-to-rank-rows-in-sql-server-rownumber-rank-denserank-and-ntile/)
+
