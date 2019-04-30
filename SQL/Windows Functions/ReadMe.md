@@ -10,6 +10,17 @@
 
 
 
+Windows_function (<Column you want to aggregate or perform function on>)
+  OVER (
+    [ PARTITION BY <Column you want to group by>  ]
+    [ ORDER BY <Column you want to order by> [{ ASC | DESC }] ]
+    [ <Windows Frame> ]
+  )
+
+
+Windows Frame first parameter : UNBOUNDED PRECEDING  or CURRENT ROW  
+Windows Frame second parameter : UNBOUNDED FOLLOWING  or CURRENT ROW  
+
 
 ### Resources
 
@@ -20,4 +31,6 @@
 * [Added Calculations over N rolling day average](https://www.essentialsql.com/sql-puzzle-calculate-moving-averages/)
 * [Periscope Blog Day over Day Changes](https://www.periscopedata.com/blog/computing-day-over-day-changes-with-window-functions/)
 * [Difference between RowNum() , Rank() & DenseRank()](https://codingsight.com/methods-to-rank-rows-in-sql-server-rownumber-rank-denserank-and-ntile/)
-
+* [Running Total](https://codingsight.com/calculating-running-total-with-over-clause-and-partition-by-clause-in-sql-server/)
+* [Google Cloud Analytical Functions Tutorial](https://cloud.google.com/bigquery/docs/reference/standard-sql/analytic-function-concepts)
+* [Running Total Tutorials covering rows and range](https://sqlwithmanoj.com/tag/running-totals/)
