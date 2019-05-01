@@ -40,4 +40,5 @@ Windows Frame second parameter : UNBOUNDED FOLLOWING  or CURRENT ROW
 * [Lag / Lead](https://www.sqlshack.com/use-window-functions-sql-server/)
 * [Rows Vs Range ](https://auntkathisql.com/2014/09/27/what-is-the-difference-between-rows-and-range/)
 * [Rows Vs Range II](https://www.sqlpassion.at/archive/2015/01/22/sql-server-windowing-functions-rows-vs-range/)
-
+* [Preceding & Following](https://stevestedman.com/2013/04/rows-and-range-preceding-and-following/)
+* [Day over Day Averages/Calculations](https://webflow-blog.periscopedata.com/blog/computing-day-over-day-changes-with-window-functions)
